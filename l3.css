@@ -1,0 +1,26 @@
+.my-heading{
+    text-align:center;
+    text-color:black;
+    font-style:italic;
+    font-width:300px;
+  }
+  .kkkv{
+    width:400px;
+    height:200px;
+  }
+  .kk{
+    font-style:italic;
+    font-width:200px;
+    color:blue;
+  }
+  #kv{
+    font-size:100%;
+    line-height:1.5;
+    text-align:left;
+    
+  }
+  .kkv{
+    line-height:1.5;
+    text-align:left;
+    color:rgb(69, 22, 94)
+  }
